@@ -1,19 +1,19 @@
 {
-    "version": "0.1.13",
+    "version": "0.1.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/nitrictech/suga/releases/download/v0.1.13/suga_0.1.13_windows_amd64.zip",
+            "url": "https://github.com/nitrictech/suga/releases/download/v0.1.14/suga_0.1.14_windows_amd64.zip",
             "bin": [
                 "suga.exe"
             ],
-            "hash": "72264ebb63bc86478964e0768d70417044ee65324fb66831fee36d7537a1e9c6"
+            "hash": "c4866a64bd1cc6f29888e9d3c2bc02b5555e264255ef84391bd3c93bba6d140b"
         },
         "arm64": {
-            "url": "https://github.com/nitrictech/suga/releases/download/v0.1.13/suga_0.1.13_windows_arm64.zip",
+            "url": "https://github.com/nitrictech/suga/releases/download/v0.1.14/suga_0.1.14_windows_arm64.zip",
             "bin": [
                 "suga.exe"
             ],
-            "hash": "d1f2b036b07acd31f3d8e42a1737e4d4d08d6155a342256c39f10bcc08007295"
+            "hash": "1b895b0e36c22365fcbc5ea3ca9cfb4e98cb544141ae1e7c42c106573be86738"
         }
     },
     "homepage": "https://app.addsuga.com",
